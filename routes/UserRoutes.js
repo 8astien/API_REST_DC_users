@@ -6,7 +6,7 @@ const router = express.Router();
 // GET SINGLE USER
 router.get('/', generateUser);
 
-// GET 5 USERS
+// GET 8 USERS
 router.get('/list', generateUsers);
 
 export default router;
