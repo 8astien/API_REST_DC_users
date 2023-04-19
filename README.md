@@ -12,7 +12,7 @@ Cette API permet de générer des utilisateurs fictifs à l'aide de Faker.js.
 - **URL :** `localhost:3000/api/user`
 - **Description :** Renvoie un utilisateur aléatoire.
 
-#### 2. Obtenir un tableau de 5 utilisateurs
+#### 2. Obtenir un tableau de 8 utilisateurs
 
 - **Méthode HTTP :** GET
 - **URL :** `localhost:3000/api/user/list`
